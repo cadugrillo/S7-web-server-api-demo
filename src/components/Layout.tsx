@@ -43,7 +43,7 @@ export default function Layout() {
         <div className="flex flex-col items-center gap-2 px-5 py-5 border-b border-sidebar-border">
           <img src="/assets/SIEMENS_Logo.png" alt="Siemens" className="h-10 object-contain" />
           <span className="text-sm font-semibold leading-tight text-center">
-            S7 Web Server<br />
+            S7 Web Server API<br />
             <span className="text-xs font-normal text-sidebar-foreground/60">React Demo</span>
           </span>
         </div>
