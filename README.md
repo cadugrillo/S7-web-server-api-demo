@@ -2,8 +2,6 @@
 
 A React/TypeScript demo application that connects to a **Siemens SIMATIC S7-1200/S7-1500 PLC** via its built-in Web Server API. It monitors and controls a simulated tank-filling process in real time, and doubles as a practical reference for how to integrate the [`@siemens/simatic-s7-webserver-api`](https://www.npmjs.com/package/@siemens/simatic-s7-webserver-api) npm package into a modern React front-end.
 
-> A companion Angular version of this demo is available at [cadugrillo/S7-web-server-api-demo](https://github.com/cadugrillo/S7-web-server-api-demo) — both apps talk to the same PLC program.
-
 ---
 
 ## Features
