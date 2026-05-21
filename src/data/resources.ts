@@ -15,6 +15,11 @@ export const resources: Resource[] = [
     description: 'Creating User-Defined Web Pages with the Web API for SIMATIC S7-1200 G2 / S7-1500.',
     url: 'https://support.industry.siemens.com/cs/document/68011496/creating-user-defined-web-pages-with-the-web-api-for-simatic-s7-1200-g2-s7-1500?dti=0&lc=en-WW',
   },
+  {
+    category: 'Application Example files used in this demo',
+    description: 'Source code for the S7 Web Server API Demo Project.',
+    url: 'https://github.com/cadugrillo/S7-web-server-api-demo',
+  },
 
   // ── simatic-s7-webserver-api ──────────────────────────────────────────────
   {
